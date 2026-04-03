@@ -18,4 +18,4 @@ search.py  searches the web and downloads images for a given keyword or phrase
 
 t2s3.py  text to speech
 
-trans.py
+trans.py turns mp3 in to a transcript
