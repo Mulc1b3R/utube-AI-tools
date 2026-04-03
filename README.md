@@ -6,7 +6,7 @@ Paste key in to field and off you go
 
 img.py - creates an image for a guven prompt
 
-mp3.py
+mp3.py creates an mp3 using an mp4 as input
 
 multi.py
 rewrite.py
