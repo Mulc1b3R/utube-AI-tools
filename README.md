@@ -4,7 +4,7 @@ Tools to help with you tube videos
 All you need is an open ai api key to get started.....
 Paste key in to field and off you go
 
-img.py - creates an image for a guven prompt
+img.py - creates an image for a given prompt
 
 mp3.py creates an mp3 using an mp4 as input
 
