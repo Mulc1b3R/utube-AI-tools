@@ -8,8 +8,9 @@ img.py - creates an image for a guven prompt
 
 mp3.py creates an mp3 using an mp4 as input
 
-multi.py
-rewrite.py
+multi.py enables multi thread mp3 s for stuff like radio station or interview , discussion etc
+
+rewrite.py takes a transcript and re writes it
 
 script.py
 
